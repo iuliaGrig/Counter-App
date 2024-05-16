@@ -1,0 +1,37 @@
+body {
+    background-image: url("/Users/iulia/git_practice/coding/proj1/resources/images/uitsbd-banner02.jpg");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #4189A6;
+}
+
+#save-btn {
+    background: #F2AFA0;
+}
