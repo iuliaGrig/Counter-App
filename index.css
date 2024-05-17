@@ -1,6 +1,7 @@
 body {
-    background-image: url("iuliaGrig/Counter-App/resources/uitsbd-banner02.jpg");
+    background-image: url("resources/uitsbd-banner02.jpg");
     background-size: cover;
+    background-position: center;
     font-family: "Ubuntu Sans Mono", monospace;
     font-weight: 400;
     font-optical-sizing: auto;
